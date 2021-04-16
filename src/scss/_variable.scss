@@ -1,0 +1,18 @@
+$main-color: #009D98;
+$main-text-color: #7A7A7A;
+$title-color: #130F40;
+$bg-color: rgba(0, 167, 204, 0.102);
+
+$grid-breakpoints: (
+  xs: 0,
+  sm: 576px,
+  md: 768px,
+  lg: 992px,
+  xl: 1200px,
+  xxl: 1400px
+);
+
+$grid-columns: 12;
+$grid-gutter-width: 30px;
+
+$enable-grid-classes: true;
